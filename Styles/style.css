@@ -211,3 +211,19 @@
   border-radius: 0 10px 10px 0;
   font-size: 20px;
 }
+/* footer styles */
+.footer{
+  background-color: rgba(53, 24, 4, 0.882);
+  height: 150px;
+  padding: 80px;
+}
+.footer h1{
+  font-size: 30px;
+  color: rgb(189, 38, 78);
+  text-align: center;
+}
+.footer p{
+  text-align: center;
+  color:rgb(19, 160, 160);
+  font-size: 18px;
+}
